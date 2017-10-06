@@ -4,7 +4,7 @@ from SublimeLinter.lint import NodeLinter, util
 
 
 class Solhint(NodeLinter): 
-    """ Solhint class delegate call to solhint tool and return result back"""
+    """Solhint class delegate call to solhint tool and return result back."""
 
     syntax = 'solidity' 
     cmd = 'solhint -f visualstudio @'
