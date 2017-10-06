@@ -3,7 +3,7 @@ from SublimeLinter.lint import NodeLinter, util
 
 class Solhint(NodeLinter): 
     syntax = 'solidity' 
-    cmd = 'solhint -f unix @'
+    cmd = 'solhint -f visualstudio @'
     executable = None
     version_args = '--version'
     version_re = r'(?P<version>\d+\.\d+\.\d+)'
