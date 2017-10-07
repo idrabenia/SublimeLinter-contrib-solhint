@@ -1,4 +1,4 @@
-SublimeLinter-solhint
+SublimeLinter-contrib-solhint
 ------------------------------
 This linter plugin for SublimeLinter provides an interface to Solhint (Ethereum's Solidity code linter).
 
