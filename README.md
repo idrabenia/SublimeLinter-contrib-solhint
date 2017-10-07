@@ -1,4 +1,4 @@
-SublimeLinter-solhint
+SublimeLinter-contrib-solhint
 =========================
 
 [![Build Status](https://travis-ci.org/idrabenia/SublimeLinter-solhint.svg?branch=master)](https://travis-ci.org/idrabenia/SublimeLinter-solhint)
