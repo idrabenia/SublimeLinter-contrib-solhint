@@ -22,7 +22,7 @@ To install via Package Control, do the following:
 
 1. Within Sublime Text, bring up the [Command Palette](http://docs.sublimetext.info/en/sublime-text-3/extensibility/command_palette.html) and type `install`. Among the commands you should see `Package Control: Install Package`. If that command is not highlighted, use the keyboard or mouse to select it. There will be a pause of a few seconds while Package Control fetches the list of available plugins.
 
-2. When the plugin list appears, type `solhint`. Among the entries you should see `SublimeLinter-solhint`. If that entry is not highlighted, use the keyboard or mouse to select it.
+2. When the plugin list appears, type `solhint`. Among the entries you should see `SublimeLinter-contrib-solhint`. If that entry is not highlighted, use the keyboard or mouse to select it.
 
 ## Settings
 For general information on how SublimeLinter works with settings, please see [Settings](http://sublimelinter.readthedocs.org/en/latest/settings.html). For information on generic linter settings, please see [Linter Settings](http://sublimelinter.readthedocs.org/en/latest/linter_settings.html).
