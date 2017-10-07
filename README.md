@@ -1,7 +1,7 @@
 SublimeLinter-contrib-solhint
 =========================
 
-[![Build Status](https://travis-ci.org/idrabenia/SublimeLinter-solhint.svg?branch=master)](https://travis-ci.org/idrabenia/SublimeLinter-solhint)
+[![Build Status](https://travis-ci.org/idrabenia/SublimeLinter-contrib-solhint.svg?branch=master)](https://travis-ci.org/idrabenia/SublimeLinter-contrib-solhint)
 
 This linter plugin for [SublimeLinter](http://sublimelinter.readthedocs.org) provides an interface to [solhint](https://github.com/tokenhouse/solhint). It will be used with files that have the "Solidity" syntax.
 
